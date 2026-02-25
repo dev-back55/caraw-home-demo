@@ -1,0 +1,27 @@
+
+[
+  {
+    "id": 1,
+    "nombre": "Juan Carlos Rodríguez",
+    "comercio": "Comercial La Plata",
+    "email": "jrodriguez@laplata.com"
+  },
+  {
+    "id": 2,
+    "nombre": "María Elena Fernández",
+    "comercio": "Ferretería Central",
+    "email": "mfernandez@ferreteria.com"
+  },
+  {
+    "id": 3,
+    "nombre": "Carlos Alberto Pérez",
+    "comercio": "Panadería El Trigo",
+    "email": "cperez@eltrigo.com"
+  },
+  {
+    "id": 4,
+    "nombre": "Ana Sofía González",
+    "comercio": "Farmacia Nueva",
+    "email": "agonzalez@farmanueva.com"
+  }
+]

@@ -1,0 +1,21 @@
+
+[
+  {
+    "id": 1,
+    "asociado": "Juan Carlos Rodríguez",
+    "comercio": "Comercial La Plata",
+    "comprobante": "MP-001234"
+  },
+  {
+    "id": 2,
+    "asociado": "María Elena Fernández",
+    "comercio": "Ferretería Central",
+    "comprobante": "TRF-005678"
+  },
+  {
+    "id": 3,
+    "asociado": "Ana Sofía González",
+    "comercio": "Farmacia Nueva",
+    "comprobante": "MP-001235"
+  }
+]

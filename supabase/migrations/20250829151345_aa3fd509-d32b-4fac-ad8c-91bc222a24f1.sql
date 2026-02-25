@@ -1,0 +1,1 @@
+UPDATE public.asociados SET catcuota = 5000;

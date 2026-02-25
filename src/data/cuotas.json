@@ -1,0 +1,27 @@
+
+[
+  {
+    "id": 1,
+    "asociado": "Juan Carlos Rodríguez",
+    "comercio": "Comercial La Plata",
+    "periodo": "2025-06"
+  },
+  {
+    "id": 2,
+    "asociado": "María Elena Fernández",
+    "comercio": "Ferretería Central",
+    "periodo": "2025-06"
+  },
+  {
+    "id": 3,
+    "asociado": "Carlos Alberto Pérez",
+    "comercio": "Panadería El Trigo",
+    "periodo": "2025-06"
+  },
+  {
+    "id": 4,
+    "asociado": "Ana Sofía González",
+    "comercio": "Farmacia Nueva",
+    "periodo": "2025-06"
+  }
+]
